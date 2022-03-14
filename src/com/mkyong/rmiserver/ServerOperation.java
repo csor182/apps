@@ -19,8 +19,8 @@ public class ServerOperation extends UnicastRemoteObject implements RMIInterface
     @Override
     public String helloTo(String name) throws RemoteException{
 
-        System.err.println(name + " is trying to contact!");
-        return "Server says hello to " + name;
+        System.err.println(name + " esta tratando de conectarse!");
+        return "Servidor saluda a " + name;
 
     }
 
@@ -29,7 +29,7 @@ public class ServerOperation extends UnicastRemoteObject implements RMIInterface
         try {
 
             Naming.rebind("//localhost/MyServer", new ServerOperation());            
-            System.err.println("Server ready");
+            System.err.println("Server listo");
 
         } catch (Exception e) {
 
