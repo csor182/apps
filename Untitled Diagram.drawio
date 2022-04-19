@@ -1,1 +1,103 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T19:00:36.971Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="vdbn8k9RF6api39lLijO" version="17.4.5" type="github"><diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">7Zxdk6I4FIZ/jbdTfAcv1dGZrZqp3Vq3aq8jRMx0IFQI2s6v39AGBeJ0ua2bgIs3TU4CITlPv5wcohN3kb5+YTDffacxIhPHil8n7ueJ49ieFYo/leV4sgBPGhKGY9noYljjn0gaLWktcYyKVkNOKeE4bxsjmmUo4i0bZIwe2s22lLR7zWGCFMM6gkS1/o1jvpNWO5heKr4inOxk16EDThUbGL0kjJaZ7C+jGTrVpLC+jBxjsYMxPTRM7nLiLhil/HSUvi4Qqaa1nrHTeatf1J5vmaGM33QC8PzTOXtISjlweWv8WM8EisXEyOLbYNz52/BQdRVLlH6Uad5psOMpESVbHJ4HWTUlcIPI/DxDC0oou5xVcMj4rHJex7bChMgroCyuW0QEFgWOTkbZpOrxB+L8KImCJafCRBnf0YRmkHyjNK/vjDP6gup7mDius/LnYHGuqf3uCsuWZnwFU0wqnL8iskccR1BWyL7sQJabl3Q9z/9cXTKHEc4SYfVFSfWUdF5BSxahs3skbGIOElQ3BIF3slaOaZwsffwF0RRxdhQNGCKQ432baCj/MZJzuwsh4kBC8ktgghGYwQEDbIPAgBGYwQETWAaBCUdgBgeM7xoEZqoAM4v3iHFcVKPrsnMBpZrwww5ztBYTUdUeRCh7BylN17WMLa8JKK7596PeXL19hB0SnGQVgsJ/iNUnynHbirshi+RVgSjliGEx9Yitz42c95iophe9vutpWetNZYgp1wFuaH2SlkMjrval4uwaITWwHoFHfeUP64mtW08+LBbL0A885+Ni4b2DV5ueLlsdqjcWclFwu6jU8tERlcCcqPj2SM1AqfENUuOM1AyUGoNr6vqOGtQs040IJI89D15QzcDdHleCl/cR0BW8iLikE7z4twYvwWOCF09B468dogyjoudsbK0QhbZmNiyNbARtNHzL04yGmrqd5TmCZATDLBi2Z1gz1BTtN3ikJR/B6JViOL5uxRhTsQ1a7GA6fcPwPw9gbwxMayd3UrEGM2v+mIodIDCOQWDUVOwITO+BMfh2MFCTs7+zBGb4p+iJZj2PWCoHxw9xZ0/Xv93kvQ9uTt4/JmQJ1DTsQsxFNaJ+oxF4mw3SkRrRFrx2UAh83SioudV5GVc6NpJg9I0esAPNJKj50pl4FB8L3Pek2NOx4BhXBTVB+h2yFzGdvX/1v7JCYPkaYOhL9OBYuuG4kiLFqRCJgIh+5hsmjhJ+HmxvSdn6cCvW4s8jG91gwrZ1kzFuY72mRL1ZqEpV7yxUDb7ZD9Tc6W+ZmK4yFSPpe9jxdPqhrEt1y8eYGB2gfACD8qEmRtcoqbRjCHmup9OP7rJFe/wB7t2UOgqIAQGZmhMQcC0RmqZlJmZjAApiOxBunnmtC5Rt7v4nb9r4aFUXNVW63A8gTg3sKKj6ftodICHoxK2O5i0gQE2d/rvnznA2KNvObDbX8lB58AblWuo73+F0DD58riRZUYzhKCeGdxpaVltPPFe3ntz7+wGjnpjSE4NfeABq9nWd06ygrP9vbf5/ouJqD1Lu3ac6ioopUTH4jU2g5mT/+HMUk34teBxPt5bcuyN11BJTWhJq0hJRvPzk1ltd4yfN3OU/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-19T21:20:14.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="qSVIlHHhfzguvBdtFXzT" version="17.4.5" type="github">
+  <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
+    <mxGraphModel dx="2583" dy="1402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1745" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" source="1749" target="1764" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1746" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" source="1749" target="1771" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1747" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" source="1749" target="1760" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1748" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" source="1749" target="1753" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ldh73sxW4QrbgtzumkLl-1788" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1749" target="ldh73sxW4QrbgtzumkLl-1787">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1749" value="MICROSERVICIOS" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="495" y="380.5" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1751" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1753" target="1755" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ldh73sxW4QrbgtzumkLl-1784" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1753" target="ldh73sxW4QrbgtzumkLl-1783">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ldh73sxW4QrbgtzumkLl-1786" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1753" target="ldh73sxW4QrbgtzumkLl-1785">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1753" value="Gobernanza descentralizada" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="300" y="385.5" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1755" value="Una de las consecuencias de la gobernanza centralizada es la tendencia a estandarizar en plataformas tecnológicas únicas." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="385.5" width="284" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1758" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#1699D3;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1760" target="1762" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1760" value="End points inteligentes y dumb pipes&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="731.25" y="540" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ldh73sxW4QrbgtzumkLl-1780" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1762" target="ldh73sxW4QrbgtzumkLl-1779">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1762" value="A la hora de construir estructuras de comunicación entre diferentes procesos, se ha visto muchos productos y enfoques que hacen hincapié en poner una gran cantidad de inteligencia en el propio mecanismo de comunicación.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="736.25" y="639.5" width="145" height="263.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1764" value="Componentización a través de los servicios" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="495" y="200.5" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1765" value="los equipos son multifuncionales, incluyendo toda la gama de habilidades necesarias para el desarrollo: experiencia de usuario, base de datos y gestión de proyectos." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="700" y="-50" width="145" height="220.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1766" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1764" target="1765" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1767" value="Cualquier organización que diseñe un sistema (definido de forma amplia) producirá un diseño cuya estructura es una copia de la estructura de comunicación de la organización." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="495" y="-90" width="150" height="200.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1768" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1764" target="1767" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1769" value="Incluso los cambios más sencillos pueden llevar a que un proyecto de varios equipos requiera tiempo y aprobación presupuestaria. Un equipo inteligente optimizará esto y optará por el menor de los males" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="295" y="-50" width="155" height="220.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1770" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1764" target="1769" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1771" value="Productos, no proyectos" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="730" y="383.9999999999999" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1776" value="La mayoría de los esfuerzos de desarrollo de aplicaciones que vemos utilizan un modelo de proyecto: el objetivo es entregar una pieza de software que se considera completada. Una vez completado, el software se entrega a una organización de mantenimiento y el equipo del proyecto que lo construyó se disuelve." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+          <mxGeometry x="970" y="260.5" width="180" height="304.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1777" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1771" target="1776" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ldh73sxW4QrbgtzumkLl-1779" value="Las aplicaciones construidas a partir de microservicios pretenden estar lo más desacopladas y cohesionadas posible: son dueñas de su propia lógica de dominio y actúan más bien como filtros en el sentido clásico de Unix: reciben una petición, aplican la lógica adecuada y producen una respuesta." style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#64bbe2;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;spacing=5;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="730" y="939.5" width="157.5" height="348.25" as="geometry" />
+        </mxCell>
+        <mxCell id="ldh73sxW4QrbgtzumkLl-1783" value="Se prefiere utilizar la herramienta adecuada para el trabajo y, aunque las aplicaciones monolíticas pueden aprovechar diferentes lenguajes hasta cierto punto, no es tan común." style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#e85642;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;spacing=5;fontStyle=1;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="510" width="360" height="85.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ldh73sxW4QrbgtzumkLl-1785" value="&lt;div&gt;Netflix es un buen ejemplo de organización que sigue esta filosofía. Compartir código útil y, sobre todo, comprobado en forma de bibliotecas, anima a otros desarrolladores a resolver problemas similares de forma parecida, pero deja la puerta abierta a elegir un enfoque diferente si es necesario. Las bibliotecas compartidas tienden a centrarse en problemas comunes de almacenamiento de datos, comunicación entre procesos&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#e85642;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;spacing=5;fontStyle=1;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="250" width="1180" height="65.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ldh73sxW4QrbgtzumkLl-1790" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ldh73sxW4QrbgtzumkLl-1787" target="ldh73sxW4QrbgtzumkLl-1789">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ldh73sxW4QrbgtzumkLl-1787" value="Gestión de datos descentralizada" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#2F5B7C;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontStyle=1;spacing=5;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="340" y="522.75" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ldh73sxW4QrbgtzumkLl-1789" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 12.0pt ; line-height: 107% ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Además de descentralizar las decisiones sobre el&lt;br/&gt;modelo conceptual, los microservicios también descentralizan las decisiones&lt;br/&gt;sobre el almacenamiento de datos. Mientras que las aplicaciones monolíticas&lt;br/&gt;prefieren una única base de datos lógica para los datos persistentes, las&lt;br/&gt;empresas suelen preferir una única base de datos para todo el conjunto de&lt;br/&gt;aplicaciones.&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#2F5B7C;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontStyle=1;spacing=5;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="270" y="710" width="285" height="300" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
